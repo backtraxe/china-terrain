@@ -2,7 +2,13 @@
 
 单文件、离线可用的中国三维地形可视化页面，使用真实高程数据生成。
 
+- 高清版：2048 × 1536 高程网格
+- 轻量版：1536 × 1152 高程网格，加载更快
+- 两版页面加载时可直接互相切换
+
 在线查看：https://backtraxe.github.io/china-terrain/
+
+轻量版（1536 网格，首包约 2.6MB gzip）：https://backtraxe.github.io/china-terrain/china-terrain-lite.html
 
 ## 内容
 
